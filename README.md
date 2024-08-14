@@ -1,6 +1,6 @@
 #  YOUTUBE VIDEO DOWNLOADER
 #### Screenshort
-<img src="youtubescr.png" alt="screenshot">
+<img src="youtubescr.PNG" alt="screenshot">
 
 <p> One click to down maximum resolution of both facebook reels and videos with just the link
 
